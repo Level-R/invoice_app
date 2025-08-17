@@ -52,17 +52,25 @@ single `invoice_app.php` file.
 
 ## 🛠️ Installation
 
-1.  Copy `invoice_app.php` into your PHP web server (e.g., `htdocs` for
+### Steps
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Level-R/invoice_app
+   cd invoice_app
+   ```
+   
+2.  Copy `invoice_app` into your PHP web server (e.g., `htdocs` for
     XAMPP, `www` for WAMP, `public_html` for hosting).
 
-2.  Ensure the folder is writable (SQLite needs to create
+3.  Ensure the folder is writable (SQLite needs to create
     `data.sqlite`).
 
-3.  Open in browser:
+4.  Open in browser:
 
-        http://localhost/invoice_app.php
+        http://localhost/invoice_app/invoice_app.php
 
-4.  Add products → Create an invoice → Print or Save PDF.
+5.  Add products → Create an invoice → Print or Save PDF.
 
 ------------------------------------------------------------------------
 
