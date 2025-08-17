@@ -47,7 +47,14 @@ single `invoice_app.php` file.
 ------------------------------------------------------------------------
 ## 📸 Preview
 
-![Invoice app Screenshot](screenshot.png)
+### dashboard
+![Invoice app Screenshot](assets/img/dashboard.png) 
+### new invoice
+![Invoice app Screenshot](assets/img/new_invo.png) 
+### products
+![Invoice app Screenshot](assets/img/products.png) 
+### invoice view & payment and return veiw
+![Invoice app Screenshot](assets/img/veiw_invo.png) 
 
 
 ## 🛠️ Installation
